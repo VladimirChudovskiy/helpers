@@ -10,7 +10,6 @@ Helpers for laravel-admin
 
 DEMO [helpers](http://demo.laravel-admin.org/helpers/scaffold)  
 
-Login using `admin/admin`
 
 ## Installation
 
